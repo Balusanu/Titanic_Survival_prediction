@@ -69,5 +69,3 @@ Below are the key columns:
 
 An efficient **Logistic Regression model** was built to predict Titanic passenger survival with an impressive accuracy of **81%**.
 This project demonstrates key steps in a **machine learning pipeline**, from data cleaning and preprocessing to model evaluation and performance measurement.
-
-Would you like me to add a **GitHub-ready README layout** (with badges, table of contents, and folder structure)? It’ll make your repo look even more professional.
